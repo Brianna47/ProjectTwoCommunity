@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*html {
+    
+}*/
+
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: antiquewhite;
+}
+
+.red {
+    color: rgb(190, 84, 84);
+}
+
+h1 {
+    font-family: "Baskervville", serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 90px;
+  padding-top: 15%;
+  padding-left: 3%;
+
+}
+
+
